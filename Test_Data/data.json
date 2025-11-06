@@ -5,7 +5,8 @@
     "name": "Lakshmi",
     "contact": 1234567890,
     "check_in_time": "10:30 AM",
-    "phone":8754621598
+    "phoneno":8754621598,
+    "city":"Bengaluru"
   }
 ]
 
